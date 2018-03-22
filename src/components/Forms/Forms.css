@@ -1,0 +1,16 @@
+.Form input[type='text']{
+  padding:20px;
+}
+
+.Form button {
+  padding: 20px;
+  color: #fff;
+  background: #019875;
+  border: none;
+
+}
+
+.Form button:hover  {
+  background-color: #02bab5;
+
+}
